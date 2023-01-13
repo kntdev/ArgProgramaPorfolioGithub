@@ -1,2 +1,2 @@
 # ArgProgramaPorfolioGithub
-Tarea para realizar en argentina programa: Crear un repositorio en donde vamos a trabajar un porfolio con el frontend y backend.
+Tarea para realizar en argentina programa: Crear un repositorio en donde vamos a trabajar un porfolio con el frontend.
